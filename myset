@@ -1,0 +1,2 @@
+myset={1,2,"sanika",5.66,"vedika","N","s","D"}
+print(myset)
