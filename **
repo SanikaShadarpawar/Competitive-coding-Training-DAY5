@@ -1,0 +1,12 @@
+s = "sanika*is*a*good*programmer"
+
+# count stars
+count = s.count('*')
+
+# remove stars
+new_str = s.replace('*', '')
+
+# add stars at beginning
+result = '*' * count + new_str
+
+print(result)
